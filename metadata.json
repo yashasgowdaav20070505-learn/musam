@@ -1,0 +1,10 @@
+{
+  "name": "Remix Mausam",
+  "description": "Instantly extract archives and launch your applications with a single click.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
